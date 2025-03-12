@@ -28,7 +28,7 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
       
       // Hero
       heroTitle1: {
-        nl: 'Haal meer sales met',
+        nl: 'Behaal meer sales met',
         en: 'Get more sales with',
         de: 'Erzielen Sie mehr Umsatz mit'
       },
